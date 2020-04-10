@@ -1,0 +1,23 @@
+{
+  "name": "slide-in-on-scroll-javascript",
+  "version": "1.0.0",
+  "description": "While Scrolling the images will slide in.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bikkimahato/Slide-in-on-Scroll-JavaScript.git"
+  },
+  "author": "Bikki Mahato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bikkimahato/Slide-in-on-Scroll-JavaScript/issues"
+  },
+  "homepage": "https://github.com/bikkimahato/Slide-in-on-Scroll-JavaScript#readme",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
